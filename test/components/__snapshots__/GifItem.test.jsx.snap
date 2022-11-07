@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` Pruebas en el componente gifitem Probando este componente de GifItem y debe hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card-style col-3"
+  >
+    <img
+      alt="SAITAMA"
+      src="https://one-punch.com/saitama.jpg"
+    />
+    <p>
+      SAITAMA
+    </p>
+  </div>
+</div>
+`;
